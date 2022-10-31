@@ -1,0 +1,9 @@
+.img_section {
+  background-color: aqua;
+  text-align: center;
+}
+.nav_bar {
+  display: flex;
+  justify-content: space-around;
+  
+}
